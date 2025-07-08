@@ -1,0 +1,655 @@
+- name: 经常访问
+  pngn: linecons-star
+  sub: 
+    - name: 常用网站
+      links:
+        - title: 投资网站导航
+          url: /tz
+          logo: /assets/images/logo/logo.png
+          description: 投资网站导航
+        #- title: 我的博客
+        #  url: https://pullblog.com
+        #  logo: /assets/images/logo/115blog.png
+        #  description: myblog
+        - title: Gmail
+          url: https://mail.google.com/
+          logo: /assets/images/logo/logo.png
+          description: Gmail
+        #- title: 115blog
+        #  url: https://115blog.com
+        #  logo: /assets/images/logo/115blog.png
+        #  description: 115blog
+        - title: 订阅转换
+          url: https://sub.ezcn.workers.dev/
+          logo: /assets/images/logo/logo.png
+          description: 订阅转换
+        # - title: 投资网站导航
+        #   url: https://tz.so0.com
+        #   logo: /assets/images/logo/115blog.png
+        #   description: 投资网站导航
+        - title: 今日头条
+          url: https://www.toutiao.com/
+          logo: /assets/images/logo/logo.png
+          description: 今日头条
+        #- title: 我的常用网站列表
+        #  url: https://pullblog.com/posts/%E6%88%91%E7%9A%84%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/
+        #  logo: /assets/images/logo/115blog.png
+        #  description: 我的常用网站列表
+        - title: Hostloc
+          logo: /assets/images/logo/logo.png
+          url: https://hostloc.com/forum-45-1.html
+          description: Hostloc
+        - title: NodeSeek
+          logo: /assets/images/logo/logo.png
+          url: https://www.nodeseek.com/categories/daily
+          description: NodeSeek          
+        - title: 滴答清单
+          logo: /assets/images/logo/logo.png
+          url: https://www.dida365.com/
+          description: 滴答清单
+        # - title: 富贵论坛
+        #   logo: /assets/images/logo/fugui.png
+        #   url: https://www.fglt.cn/forum.php
+        #   description: 富贵论坛
+        - title: 126邮箱
+          url: https://mail.126.com/
+          logo: /assets/images/logo/logo.png
+          description: 126邮箱
+        - title: markdown语法
+          url: https://xianbai.me/learn-md/index.html
+          logo: /assets/images/logo/logo.png
+          description: markdown语法
+        - title: 在线PS
+          url: https://www.photopea.com/
+          logo: /assets/images/logo/logo.png
+          description: 在线PS
+        - title: BT网站收集
+          url: https://pullblog.com/posts/BT%E7%BD%91%E7%AB%99/
+          logo: /assets/images/logo/logo.png
+          description: BT网站收集
+        - title: 离线下载服务
+          url: https://pullblog.com/posts/%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1/
+          logo: /assets/images/logo/logo.png
+          description: 离线下载服务         
+        - title: NumberBarn
+          url: https://www.numberbarn.com/account/numbers
+          logo: /assets/images/logo/logo.png
+          description: NumberBarn
+        - title: 妖火论坛
+          url: https://yaohuo.me/
+          logo: /assets/images/logo/logo.png
+          description: 妖火论坛
+        - title: 二维码生成器
+          url: https://www.mobanma.com/files
+          logo: /assets/images/logo/logo.png
+          description: 二维码生成器
+        - title: outlook
+          url: https://outlook.live.com/mail/0/
+          logo: /assets/images/logo/logo.png
+          description: 邮箱
+
+
+- name: 服务
+  pngn: linecons-doc
+  sub: 
+    - name: 支付
+      links:
+        - title: 万里汇
+          logo: /assets/images/logo/logo.png
+          url: https://www.worldfirst.com.cn/cn/
+          description: 转账工具
+        - title: paypal
+          logo: /assets/images/logo/logo.png
+          url: https://www.paypal.com/hk/webapps/mpp/home
+          description: 转账工具
+        - title: pingpong
+          logo: /assets/images/logo/logo.png
+          url: https://www.pingpongx.com/
+          description: 转账工具
+        - title: Payoneer
+          logo: /assets/images/logo/logo.png
+          url: https://www.payoneer.com/zh/
+          description: Payoneer
+        - title: Wise
+          logo: /assets/images/logo/logo.png
+          url: https://wise.com/activity/
+          description: 转账工具
+        - title: Revolut
+          logo: /assets/images/logo/logo.png
+          url: https://app.revolut.com/home/accounts
+          description: 转账工具
+        - title: Remessa Online
+          logo: /assets/images/logo/logo.png
+          url: https://www.remessaonline.com.br/app/perfil/painel
+          description: 巴西汇款工具
+        - title: PicPay
+          logo: /assets/images/logo/logo.png
+          #logo: https://cdn.jsdelivr.net/gh/pvxx/nav@main/assets/images/logo/picpay.png
+          url: https://ib.picpay.com/home
+          description: 银行
+        - title: NuBank
+          logo: /assets/images/logo/logo.png
+          url: https://app.nubank.com.br/beta/login/
+          description: 银行
+#        - title: inter
+#          logo: /assets/images/logo/inter.png
+#          url: https://inter.co/
+#          description: 银行
+        - title: C6 bank
+          logo: /assets/images/logo/logo.png
+          url: https://www.c6bank.com.br/
+          description: 银行
+        - title: PagBank
+          logo: /assets/images/logo/logo.png
+          url: https://acesso.pagseguro.uol.com.br/
+          description: 银行
+        - title: Mercado Pago
+          logo: /assets/images/logo/logo.png
+          url: https://www.mercadopago.com.br/
+          description: 银行
+        - title: bradesco
+          logo: /assets/images/logo/logo.png
+          url: https://banco.bradesco/html/classic/index.shtm
+          description: 银行
+        - title: Avenue
+          logo: /assets/images/logo/logo.png
+          url: https://avenue.us/
+          description: 银行
+        - title: btg pactual
+          logo: /assets/images/logo/logo.png
+          url: https://app.banking.btgpactual.com/login
+          description: 银行
+        - title: PAN
+          logo: /assets/images/logo/logo.png
+          url: https://www.bancopan.com.br/
+          description: 银行
+
+
+
+
+    - name: VPS
+      links:
+        - title: Oracle
+          url: https://idcs-d709b7457cfb49d4b93de5680c88b1af.identity.oraclecloud.com/ui/v1/signin
+          logo: /assets/images/logo/logo.png
+          description: Oracle
+        - title: 搬瓦工
+          url: https://bandwagonhost.com/
+          logo: /assets/images/logo/logo.png
+          description: VPS
+        - title: 数字海洋
+          url: https://www.digitalocean.com/
+          logo: /assets/images/logo/logo.png
+          description: VPS
+        - title: vultr
+          logo: /assets/images/logo/logo.png
+          url: https://www.vultr.com/
+          description: VPS
+        - title: 阿里云国际版
+          logo: /assets/images/logo/logo.png
+          url: https://www.alibabacloud.com/zh/product
+          description: VPS      
+        - title: 腾讯云
+          logo: /assets/images/logo/logo.png
+          url: https://cloud.tencent.com/
+          description: VPS
+        - title: racknerd
+          logo: /assets/images/logo/logo.png
+          url: https://racknerd.com/ 
+          description: VPS
+        - title: BuyVm
+          url: https://my.frantech.ca/cart.php
+          logo: /assets/images/logo/logo.png 
+          description: VPS
+        - title: 绿云
+          url: https://greencloudvps.com/billing/index.php
+          logo: /assets/images/logo/logo.png
+          description: VPS
+        - title: akkocloud
+          url: https://www.akkocloud.com/
+          logo: /assets/images/logo/logo.png
+          description: VPS
+        - title: V.PS
+          logo: /assets/images/logo/logo.png
+          url: https://vps.hosting/clientarea/services/tokyo-mini-kvm-vps/      
+          description: VPS
+        - title: lightnode
+          url: https://www.lightnode.com/
+          logo: /assets/images/logo/logo.png
+          description: VPS
+        - title: Hostyun
+          logo: /assets/images/logo/logo.png
+          url: https://www.hostyun.com/
+          description: VPS
+        - title: 老毛子justhost.ru
+          logo: /assets/images/logo/logo.png
+          url: https://justhost.ru/zh
+          description: VPS
+        - title: 朝暮数据
+          logo: /assets/images/logo/logo.png
+          url: https://zhaomu.com/site/index
+          description: VPS
+        - title: Just My Socks
+          logo: /assets/images/logo/logo.png
+          url: https://justmysocks.net/members/clientarea.php
+          description: VPS
+   #     - title: Hostiger-土耳其vps
+          logo: /assets/images/logo/logo.png
+          url: https://hostiger.com/
+          description: VPS
+    #    - title: cloudcone
+     #     logo: /assets/images/logo/cloudcone.png
+      #    url: https://cloudcone.com/
+       #   description: VPS
+        - title: 永久虚拟主机
+          logo: /assets/images/logo/logo.png
+          url: https://myw.pt/manager/clientarea.php
+          description: 虚拟主机
+        - title: 日本免费webdav
+          logo: /assets/images/logo/logo.png
+          url: https://uno.teracloud.jp/browser/
+          description: 免费webdav
+    - name: 域名
+      links:
+        - title: squarespace
+          url: https://domains.squarespace.com/
+          logo: /assets/images/logo/logo.png
+          description: squarespace
+        - title: Google域名
+          url: https://domains.google.com/
+          logo: /assets/images/logo/logo.png
+          description: 域名
+        - title: cloudflare
+          url: https://www.cloudflare.com/zh-cn/
+          logo: /assets/images/logo/logo.png
+          description: 域名
+        - title: godaddy
+          url: https://www.godaddy.com/zh-sg
+          logo: /assets/images/logo/logo.png
+          description: 域名
+        - title: namecheap
+          url: https://www.namecheap.com/
+          logo: /assets/images/logo/logo.png
+          description: 域名
+    - name: 网盘
+      links:
+        - title: 坚果云
+          logo: /assets/images/logo/logo.png
+          url: https://www.jianguoyun.com/d/home#/
+          description: 网盘
+        - title: 金山文档
+          logo: /assets/images/logo/logo.png
+          url: https://www.kdocs.cn/latest
+          description: 网盘
+        - title: Onedrive
+          logo: /assets/images/logo/logo.png
+          url: https://ondrive.live.com/
+          description: 网盘
+        - title: Dropbox
+          logo: /assets/images/logo/logo.png
+          url: https://www.dropbox.com/home
+          description: 网盘
+        - title: Google Drive
+          logo: /assets/images/logo/logo.png
+          url: https://drive.google.com/
+          description: 网盘
+        - title: 百度网盘
+          url: https://pan.baidu.com/
+          logo: /assets/images/logo/logo.png
+          description: 网盘
+        - title: 115网盘
+          url: https://115.com/
+          logo: /assets/images/logo/logo.png
+          description: 网盘
+        - title: 天翼网盘
+          url: https://cloud.189.cn/
+          logo: /assets/images/logo/logo.png
+          description: 网盘
+        - title: iDrive 
+          url: https://www.idrive.com/e2/
+          logo: /assets/images/logo/logo.png
+          description: iDrive 支持 AWS S3
+        - title: wasabi  
+          url: https://wasabi.com/cloud-storage-pricing/
+          logo: /assets/images/logo/logo.png
+          description: wasabi  支持 AWS S3
+    - name: 手机服务
+      links:
+        - title: tello
+          logo: /assets/images/logo/logo.png
+          url: https://tello.com/
+          description: 美国电话卡
+        - title: claro
+          logo: /assets/images/logo/logo.png
+          url: https://www.claro.com.br/meuperfil
+          description: 巴西电话卡
+        - title: sim2fly
+          logo: /assets/images/logo/logo.png
+          url: https://esim2fly.com/product/ais-sim2fly-esim-only-choose-a-plan/
+          description: 泰国电话卡
+        - title: cuniq
+          logo: /assets/images/logo/logo.png
+          url: https://www.cuniq.com/global/personal
+          description: 香港联通
+        - title: simyo
+          logo: /assets/images/logo/logo.png
+          url: https://mijn.simyo.nl/inloggen
+          description: 荷兰esim
+        - title: vivo
+          logo: /assets/images/logo/logo.png
+          url: https://www.vivo.com.br/para-voce
+          description: 巴西电话卡
+        - title: TIM
+          logo: /assets/images/logo/logo.png
+          url: https://www.tim.com.br/
+          description: 巴西电话卡
+        - title: Redpocket
+          logo: /assets/images/logo/logo.png
+          url: https://www.redpocket.com/
+          description: 美国电话卡
+        - title: tello
+          logo: /assets/images/logo/logo.png
+          url: https://tello.com/
+          description: 美国电话卡
+        - title: 3HK
+          logo: /assets/images/logo/logo.png
+          url: https://www.three.com.hk/tc/home.html
+          description: 香港电话卡
+- name: 娱乐+论坛
+  pngn: linecons-user
+  sub: 
+    - name: 论坛
+      links:
+        # - title: 万维论坛
+        #   logo: /assets/images/logo/wanweibbs.png
+        #   url: https://bbs.creaders.net/
+        #   description: 万维论坛
+        - title: Hostloc
+          logo: /assets/images/logo/logo.png
+          url: https://hostloc.com/forum-45-1.html
+          description: Hostloc
+        - title: 玩卡网
+          logo: /assets/images/logo/logo.png
+          url: https://www.plycd.com/forum.php
+          description: 玩卡网
+        - title: 我爱卡
+          logo: /assets/images/logo/logo.png
+          url: https://www.51credit.com/
+          description: 我爱卡
+        - title: 文学城
+          logo: /assets/images/logo/logo.png
+          url: https://bbs.wenxuecity.com/
+          description: 文学城
+        - title: 美卡论坛
+          logo: /assets/images/logo/logo.png
+          url: https://www.uscardforum.com/
+          description: 美卡论坛
+        - title: 纽约时报中文网
+          logo: /assets/images/logo/logo.png
+          url: https://cn.nytimes.com/
+          description: 纽约时报中文网
+    - name: 视频网站
+      links:
+        - title: 腾讯视频
+          logo: /assets/images/logo/logo.png
+          url: https://v.qq.com/
+          description: 腾讯视频
+        - title: 优酷视频
+          logo: /assets/images/logo/logo.png
+          url: https://www.youku.com/
+          description: 优酷视频
+        - title: Youtube
+          logo: /assets/images/logo/logo.png
+          url: https://www.youtube.com/
+          description: Youtube
+    - name: 电子书
+      links:
+        - title: 爱下电子书
+          logo: /assets/images/logo/logo.png
+          url: https://www.aixdzs.com/
+          description: 爱下电子书
+        - title: 熊猫搜书
+          logo: /assets/images/logo/logo.png
+          url: https://xmsoushu.com/#/
+          description: 熊猫搜书
+        - title: 鸠摩搜索
+          logo: /assets/images/logo/logo.png
+          url: https://www.jiumodiary.com/
+          description: 鸠摩搜索
+        - title: 超星读书
+          logo: /assets/images/logo/logo.png
+          url: http://book.chaoxing.com/
+          description: 超星读书
+
+    - name: 音乐网站
+      links:
+        - title: 网易音乐
+          logo: /assets/images/logo/logo.png
+          url: https://music.163.com/
+          description: 腾讯视频
+        - title: QQ音乐
+          logo: /assets/images/logo/logo.png
+          url: https://y.qq.com/
+          description: QQ音乐
+        - title: 千千音乐
+          logo: /assets/images/logo/logo.png
+          url: https://music.91q.com/
+          description: 千千音乐
+        - title: 酷狗音乐
+          logo: /assets/images/logo/logo.png
+          url: https://www.kugou.com/
+          description: 酷狗音乐
+
+
+# - name: 论坛/BBS
+#   pngn: linecons-user
+#   sub: 
+#     - name: 论坛
+#       links:
+#         - title: 万维论坛
+#           logo: /assets/images/logo/wanweibbs.png
+#           url: https://bbs.creaders.net/
+#           description: 万维论坛
+- name: 工具
+  pngn: linecons-diamond
+  sub: 
+    - name: 笔记app
+      links:
+        - title: 为知笔记
+          url: https://www.wiz.cn/zh-cn
+          logo: /assets/images/logo/logo.png
+          description: 为知笔记
+        - title: 印象笔记
+          logo: /assets/images/logo/logo.png
+          url: https://www.yinxiang.com/
+          description: 印象笔记
+        - title: 有道笔记
+          logo: /assets/images/logo/logo.png
+          url: https://note.youdao.com/
+          description: 有道笔记
+        - title: Notion
+          logo: /assets/images/logo/logo.png
+          url: https://www.notion.so/
+          description: Notion
+        - title: PDF文件扫描处理
+          logo: /assets/images/logo/logo.png
+          url: https://lookscanned.io/
+          description: PDF文件扫描处理
+        - title: 语雀
+          logo: /assets/images/logo/logo.png
+          url: https://www.yuque.com/dashboard
+          description: 语雀
+
+    - name: 站长工具
+      links:
+        - title: ping检测
+          logo: /assets/images/logo/logo.png
+          url: https://ping.chinaz.com/
+          description: ping检测
+        - title: itdog
+          logo: /assets/images/logo/logo.png
+          url: https://www.itdog.cn/
+          description: itdog
+        - title: 丢包率检测ping.pe
+          logo: /assets/images/logo/logo.svg
+          url: https://ping.pe/
+          description: ping.pe
+        - title: ipip
+          logo: /assets/images/logo/logo.png
+          url: https://en.ipip.net/
+          description: ipip
+    - name: 软件推荐
+      links:
+        - title: 少数派
+          logo: /assets/images/logo/logo.png
+          url: https://sspai.com/
+          description: 少数派
+        - title: 小众软件
+          logo: /assets/images/logo/logo.png
+          url: https://www.appinn.com/
+          description: 小众软件
+        - title: 吾爱破解
+          logo: /assets/images/logo/logo.png
+          url: https://www.52pojie.cn/
+          description: 吾爱破解
+    - name: 特殊工具
+      links:
+        - title: QQ挂机
+          logo: /assets/images/logo/logo.png
+          url: https://nadeit.cnerw.org/
+          description: 若水
+        - title: ChatGPT
+          logo: /assets/images/logo/logo.png
+          url: https://chat.openai.com/chat
+          description: ChatGPT
+        - title: 萌咖杂货店SSL证书
+          logo: /assets/images/logo/logo.png
+          url: https://shop.moeclub.org/cart.php?spm=86.5
+          description: 萌咖杂货店SSL证书
+
+- name: 学习
+  pngn: linecons-thumbs-up
+  sub: 
+    - name: 开发资源
+      links:
+        - title: Vscode在线版本
+          url: https://vscode.dev/
+          logo: /assets/images/logo/logo.png
+          description: Vscode在线版本
+        - title: Autojs
+          url: https://pro.autojs.org/docs/#/zh-cn/engines?id=delay
+          logo: /assets/images/logo/logo.png
+          description: Autojs
+        - title: autohotkey
+          url: https://www.autohotkey.com/
+          logo: /assets/images/logo/logo.png
+          description: autohotkey
+        - title: autoit
+          url: https://www.autoitscript.com/site/
+          logo: /assets/images/logo/logo.png
+          description: autoit
+        - title: python
+          url: https://www.python.org/
+          logo: /assets/images/logo/logo.png
+          description: python
+        - title: 在线表格转换工具
+          url: https://tableconvert.com/zh-CN/
+          logo: /assets/images/logo/logo.png
+          description: 在线表格转换工具
+        - title: SQLite viewer
+          url: https://sqliteviewer.app/
+          logo: /assets/images/logo/logo.png
+          description: SQLite viewer
+        - title: GUID在线生成
+          url: https://nav.ops-coffee.cn/tools/guid.html
+          logo: /assets/images/logo/logo.png
+          description: GUID在线生成
+        - title: 菜鸟教程
+          url: https://www.runoob.com/
+          logo: /assets/images/logo/logo.png
+          description: 菜鸟教程
+        - title: 菜鸟工具
+          url: https://c.runoob.com/
+          logo: /assets/images/logo/logo.png
+          description: 菜鸟工具
+        - title: 程序员在线工具
+          url: https://tool.lu/
+          logo: /assets/images/logo/logo.png
+          description: 程序员在线工具
+        - title: Base64 在线编码解码
+          url: https://tool.lu/
+          logo: /assets/images/logo/logo.png
+          description: Base64 在线编码解码
+        - title: crontab 规则
+          url: https://crontab.guru/
+          logo: /assets/images/logo/logo.png
+          description: crontab 规则
+        - title: web ssh 客户端
+          url: https://app.tabby.sh/
+          logo: /assets/images/logo/logo.png
+          description: web ssh          
+    - name: 开发者社区
+      links:
+        - title: v2ex
+          logo: /assets/images/logo/logo.png
+          url: https://www.v2ex.com/
+          description: v2ex
+        - title: 博客园
+          logo: /assets/images/logo/logo.png
+          url: https://www.cnblogs.com/
+          description: 博客园
+        - title: 掘金
+          logo: /assets/images/logo/logo.png
+          url: https://juejin.cn/
+          description: 掘金
+        - title: 开源中国
+          logo: /assets/images/logo/logo.png
+          url: https://www.oschina.net/
+          description: 开源中国
+        - title: stackoverflow
+          logo: /assets/images/logo/logo.png
+          url: https://stackoverflow.com/
+          description: stackoverflow
+
+
+- name: 其它
+  pngn: linecons-pencil
+  sub: 
+    - name: 邮箱
+      links:
+        - title: 126邮箱
+          url: https://mail.126.com/
+          logo: /assets/images/logo/logo.png
+          description: 126邮箱
+        - title: 139邮箱
+          url: https://mail.10086.cn/
+          logo: /assets/images/logo/logo.png
+          description: 139邮箱
+        - title: Gmail
+          url: https://mail.google.com/
+          logo: /assets/images/logo/logo.png
+          description: Gmail
+        - title: QQ邮箱
+          url: https://mail.qq.com/
+          logo: /assets/images/logo/logo.png
+          description: QQ邮箱
+        - title: yahoo邮箱
+          url: https://mail.yahoo.com/
+          logo: /assets/images/logo/logo.png
+          description: yahoo邮箱
+        - title: Firefox Relay
+          url: https://relay.firefox.com/
+          logo: /assets/images/logo/logo.png
+          description: Firefox Relay
+        - title: forwardemail
+          url: https://forwardemail.net/zh
+          logo: /assets/images/logo/logo.png
+          description: forwardemail
+        - title: mailbox.org
+          url: https://mailbox.org/en/
+          logo: /assets/images/logo/logo.png
+          description: mailbox.org
+        - title: zoho
+          url: https://mail.zoho.com/ 
+          logo: /assets/images/logo/logo.png
+          description: zoho
